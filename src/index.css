@@ -1,0 +1,23 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #5F9EA0; 
+  --secondary-color: #FAEBD7;
+  --hover-color: #5F9EB7;
+  --gradient-color: linear-gradient(160deg, #5F9EA0 55%, #FAEBD7 100%);
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  /* background-color: #f4f4f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0; */
+}
