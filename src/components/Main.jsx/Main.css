@@ -67,4 +67,5 @@ textarea {
 .editor::-webkit-scrollbar-thumb {
   background-color: dimgrey;
   border-radius: 5px;
+  cursor: pointer;
 }
